@@ -2,6 +2,7 @@
 
 #include "windows.h"
 #include <cmath>
+#include <limits>
 
 #define BYTE_MAX_VALUE (std::numeric_limits<BYTE>::max)()
 
